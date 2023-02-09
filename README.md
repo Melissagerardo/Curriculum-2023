@@ -9,3 +9,6 @@ Adolfo Lòpez Mateos
 
 # Secundaria
 Telesecundaria 283B
+
+# Bachillerato
+Conalep
