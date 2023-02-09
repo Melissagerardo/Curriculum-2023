@@ -12,3 +12,6 @@ Telesecundaria 283B
 
 # Bachillerato
 Conalep
+
+# Licenciatura
+UAdeO
