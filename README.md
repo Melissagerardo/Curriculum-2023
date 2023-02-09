@@ -15,3 +15,6 @@ Conalep
 
 # Licenciatura
 UAdeO
+
+# Maestria
+UAdeO
